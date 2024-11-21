@@ -34,14 +34,22 @@ cd streamlit-event-registration
 ```
 
 # Optional: Create a virtual environment
+
+```bash
 python -m venv venv
 source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+```
 
 # Install the necessary dependencies
+
+```bash
 pip install -r requirements.txt
+```
 
 # Run App Locally 
+```bash
 streamlit run app.py
+```
 ## The app will automatically open in your default web browser at http://localhost:8501.
 
 
