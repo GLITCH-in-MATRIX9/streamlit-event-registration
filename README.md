@@ -32,7 +32,7 @@ Copy code
 
 To get started, clone the repository to your local machine:
 
-```bash
+bash
 git clone https://github.com/your-username/streamlit-event-registration.git
 cd streamlit-event-registration
 2. Install Dependencies
